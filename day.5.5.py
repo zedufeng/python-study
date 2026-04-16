@@ -11,7 +11,7 @@ while True:
         continue
     if(largest is None or num>largest):
         largest=num
-    if(smallest is None or num<smallest):
+    if(smallest is None or num<smallest):2313
         smallest=num
 print("Maximum is",largest)
 print("Minimum is",smallest)
